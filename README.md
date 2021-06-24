@@ -10,4 +10,4 @@ The projects has 3 notebooks:
 - generate_model: build the ML Model
 - run_saved_model: load a saved Model that generated a good output based in the previous training.
 
-
+Altough this Readme is in english, all the language used in the ML Model is in portuguese.
